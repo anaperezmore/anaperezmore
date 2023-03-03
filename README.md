@@ -1,16 +1,46 @@
-### Hi there 👋
+# Ana Maria Perez
+ anaperez.more@gmail.com
+ https://github.com/anaperezmore
+ 
+## Desarrollador Web Full-stack
+### Perfil rofesional
+Soy una programadora web con más de 5 años de experiencia contribuyendo desde el Front-End al desarrollo de aplicaciones web y UI para diferentes sectores desde insurtech, pasando por traveltech y fintech.
 
-<!--
-**anaperezmore/anaperezmore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Formacion Bootcamps
+*Undefinedshell* 
 
-Here are some ideas to get you started:
+### Habilidades
+Front-End
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML5 & CSS3 ●●●●●○
+Javascript ●●●●●○
+React.js ●●●●○○
+Angular.js ●●●○○○
+Typescript ●●●○○○
+
+Back-End
+
+PHP ●●●●●○
+Symfony ●●●●●○
+Bases de datos SQL ●●●●●○
+Bases de datos No SQL ●●●●○○
+
+TI y Sistemas
+
+Repositorios GIT ●●●●●●
+Docker ●●●●●○
+AWS ●●●●○○
+Nginx ●●●●●○
+
+| Comando   | descripcion  |
+|-----------|---------------|
+| whoami    | Usuario actual |
+| ls        | lista de archivos en la carpeta actual |
+|  cp       | Copiar archivos  |
+| uptime    | tiempo transcurrido desde que se apago la compu  |
+|  cd       | Navegar entre carpetas    |
+
+| comandos alias  | Descripcion   |
+|-----------------|---------------|
+|       cl        | clear o limpiar |
+|      rm         | eliminar archivos |
