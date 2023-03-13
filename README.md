@@ -3,7 +3,7 @@
  https://github.com/anaperezmore
  
 ## Desarrollador Web Full-stack
-### Perfil rofesional
+### Perfil profesional
 Soy una programadora web con más de 5 años de experiencia contribuyendo desde el Front-End al desarrollo de aplicaciones web y UI para diferentes sectores desde insurtech, pasando por traveltech y fintech.
 
 ### Formacion Bootcamps
